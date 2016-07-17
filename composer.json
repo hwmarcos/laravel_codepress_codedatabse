@@ -1,5 +1,5 @@
 {
-  "name": "codepress/code-database",
+  "name": "laravelcodepress/code-database",
   "require": {
     "illuminate/database": "~5.2"
   },
