@@ -1,5 +1,17 @@
 {
   "name": "laravelcodepress/code-database",
+  "description": "Repository pattern package based in laravel 5.2. Created to study.",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "repository",
+    "criteria"
+  ],
+  "authors": [
+    {
+      "name": "hwmarcos"
+    }
+  ],
   "require": {
     "illuminate/database": "~5.2"
   },
